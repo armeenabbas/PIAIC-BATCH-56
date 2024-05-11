@@ -1,0 +1,13 @@
+"use strict";
+let age;
+let firstname = "Ali";
+let ismarried = false;
+console.log("age");
+var num1 = 2;
+var num2 = 4;
+var result = num1 * num2;
+console.log(result);
+var num1 = 20;
+var num2 = 4;
+var result = num1 / num2;
+console.log(result);
